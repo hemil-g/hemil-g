@@ -89,10 +89,11 @@ Some of the technologies and services in my environment:
 | Technology | Implementation |
 |:---|:---|
 | Proxmox VE | Virtualization and LXC management |
-| FortiGate | Firewall and network security |
-| VLANs | Network segmentation and workload isolation |
+| FortiGate Fortiswitch FortiAP | Firewall and network security |
 | Ubuntu Server | Linux infrastructure |
-| Docker & Compose | Containerized application deployment |
+| Windows Server | User management |
+| Radius LDAP SAML ZTNA | IAM and Auth Infrastructure |
+| Docker Compose & Kubernetes | Containerized application deployment |
 | Nextcloud | Self-hosted cloud storage |
 | PostgreSQL | Database services |
 | Redis | Caching and application infrastructure |
