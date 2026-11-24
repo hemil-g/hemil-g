@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Network Security Engineer** with professional experience in enterprise networking, firewall technologies, and network troubleshooting.
+I'm a **Network Security Engineer** with a 4+ years of professional experience in enterprise networking, firewall technologies, and network troubleshooting at Fortinet.
 
 My technical journey started with networking and cybersecurity, and I'm continuously expanding my knowledge into cloud infrastructure, virtualization, Linux, automation, and modern infrastructure engineering.
 
